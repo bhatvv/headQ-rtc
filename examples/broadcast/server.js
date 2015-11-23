@@ -93,5 +93,5 @@ io.on('connection', function(socket) {
 });
 
 server.listen(8080, function() {
-  console.log('Open in browser: http://localhost:8080/broadcast/');
+  console.log('Open in browser: http://localhost:8080/examples/broadcast');
 });
